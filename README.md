@@ -17,7 +17,7 @@ In order to run the code you will need to either clone the repository locally or
 whichever directory you prefer and UnZip it.
 
 
-After this you simply need to cd into **<Chosen Directory>**/CreditSuisse and run the command 
+After this you simply need to cd into **<Chosen Directory>**/credit-suisse-assignment and run the command 
 ```gradle run --args='logfile.txt'``` which will build and run the program with the log file to be parsed being 
 **logfile.txt** which is a sample file I created based on the example given in the assignment.
 
